@@ -1,4 +1,4 @@
-Gender Prediction System Using AlexNet:
+# Gender Prediction System Using AlexNet
 
 Summary:
 Developed a gender prediction system with Deep learning architecture -- AlexNet.
